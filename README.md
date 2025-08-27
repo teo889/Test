@@ -25,7 +25,9 @@ Eliminar todo de Github
 Panel de control\Cuentas de usuario\Administrador de credenciales
 
 Comandos .Net
+
+
 dotnet nueva consola -n nombre cd nombre dotnet run
 
 
-cambio en desarrollo 6:54
+
